@@ -46,7 +46,7 @@ def main():
     print("test: the same array was transformed arr[0] = 111")
     res[0] = 111
     print(f"res :", res)
-    print(f"arr :", res)
+    print(f"arr :", arr)
     
        
 if __name__ == "__main__":
